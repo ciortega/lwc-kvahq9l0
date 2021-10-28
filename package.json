@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/ciortega.lwc-kvahq9l0",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve vL1AvcMclchMhXGK08gJ --open"
+  }
+}
